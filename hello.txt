@@ -1,2 +1,3 @@
 This is my first document upload to a GitHub repository
 Now, this is a remote modification that we can see in my local repo
+Error local 
